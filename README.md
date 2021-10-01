@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DouglasGuacaran
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming Vuejs
 - 💞️ I’m looking to collaborate on developmetn proyects
 - 📫 How to reach me, here my phone number +56 9 4879 2726
 <!---
