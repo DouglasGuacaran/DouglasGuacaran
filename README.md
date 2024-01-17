@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DouglasGuacaran
 - 👀 I’m Physics Teacher
-- 🌱 I’m Web Tech Developer
+- 🌱 I’m FullStack Developer
 - 💞️ I’m looking to collaborate on development proyects
 - 📫 How to reach me, here my phone number +56 9 4879 2726
 <!---
